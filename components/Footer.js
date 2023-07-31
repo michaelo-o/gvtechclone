@@ -13,7 +13,7 @@ const Footer = () => {
                         <h4>Grandview Technologies</h4>
                         <br />
                         <br />
-                        <p>Solutions today for Tomorrow's future    </p>
+                        <p>Solutions today for Tomorrow&apos;s future    </p>
                         <br />
                         <br />
                         <form action="https://gvtechclone.vercel.app">
